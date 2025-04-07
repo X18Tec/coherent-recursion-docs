@@ -1,4 +1,4 @@
-name: Deploy MkDocs Site
+name: Deploy MkDocs site
 
 on:
   push:
@@ -9,13 +9,12 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout source
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: 3.13.2
+      steps:
+        - uses: actions/checkout@v4
+        - uses: actions/setup-python@v5
+          with:
+            python-version: '3.13'
+        - run: python my_script.py
 
       - name: Install dependencies
         run: pip install mkdocs-material
