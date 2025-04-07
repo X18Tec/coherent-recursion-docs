@@ -1,0 +1,60 @@
+site_name: Coherent Recursion
+site_description: A modular evolution of Minecraft — lore-rich, resonance-driven, and community-built.
+site_author: X18Tec
+repo_name: X18Tec/coherent-recursion-docs
+repo_url: https://github.com/X18Tec/coherent-recursion-docs
+theme:
+  name: material
+  logo: images/logo.png  # optional, placeholder
+  favicon: images/favicon.ico  # optional
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
+    - navigation.top
+    - search.highlight
+    - content.code.annotate
+    - content.action.edit
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.emoji
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.snippets
+  - pymdownx.tasklist
+nav:
+  - Home: index.md
+  - Getting Started:
+      - Installation Guide: getting-started/installation.md
+      - First Steps: getting-started/first-steps.md
+      - FAQ: getting-started/faq.md
+  - Modules:
+      - Module Index: modules/index.md
+      - Memory Nexus: modules/memory-nexus.md
+  - Core Systems:
+      - Resonance Paths: systems/resonance-paths.md
+      - Tool Evolution: systems/mnemonic-tools.md
+      - Module Loader: systems/module-loader.md
+  - Game Mechanics:
+      - Farming: mechanics/farming.md
+      - Combat: mechanics/combat.md
+      - Crafting & Processing: mechanics/crafting.md
+      - Inventory: mechanics/inventory.md
+  - World & Lore:
+      - The Fall of Aetherion: lore/history.md
+      - The Three Paths: lore/paths.md
+      - Dimensional Index: lore/dimensions.md
+  - Contributing:
+      - Contributor Guide: contributing/index.md
+      - Module Template: contributing/module-template.md
+  - About:
+      - Project Philosophy: about/philosophy.md
+      - Credits: about/credits.md
+      - Roadmap: about/roadmap.md
