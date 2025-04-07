@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+# Welcome to Coherent Recursion
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+**A modular evolution of Minecraft.**
 
-## Commands
+Coherent Recursion is more than a modpack—it's a design framework that reimagines Minecraft through immersive systems, layered progression, and narrative-rich worldbuilding. Built on NeoForge 1.21.1, it's a playground for creators, players, and dreamers who want to experience the game in an entirely new way.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Start with the [Getting Started](getting-started/installation.md) guide, or explore one of our evolving [Modules](modules/index.md).
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
