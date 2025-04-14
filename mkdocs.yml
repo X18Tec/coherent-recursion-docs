@@ -33,33 +33,34 @@ markdown_extensions:
   - pymdownx.tasklist
 
 nav:
-  - Home: index.md
+  - Home: module-contributor-guide.md
   - Getting Started:
-      - Installation Guide: getting-started/installation.md
+      - Installation Guide: getting-started/installation-guide.md
       - First Steps: getting-started/first-steps.md
       - FAQ: getting-started/faq.md
   - Modules:
-      - Module Index: modules/index.md
+      - Module Index: modules/module-contributor-guide.md
       - Memory Nexus: modules/memory-nexus.md
-      - EchoFrame Android AI: modules/echoframe-android.md
+      - EchoFrame Android AI: modules/echoframe-android-ai.md
   - Core Systems:
-      - Resonance Paths: systems/resonance-paths.md
-      - Tool Evolution: systems/mnemonic-tools.md
-      - Module Loader: systems/module-loader.md
-      - Resonant Waste System: systems/resonant-waste.md
+      - Resonance Paths: core-systems/resonance-three-paths.md
+      - Tool Evolution: core-systems/mnemonic-tools.md
+      - Module Loader: core-systems/module-loader.md
+      - Resonant Waste System: core-systems/resonant-waste-system.md
+      - Mnemonic Tools: core-systems/mnemonic-tools.md
   - Game Mechanics:
-      - Farming: mechanics/farming.md
-      - Combat: mechanics/combat.md
-      - Crafting & Processing: mechanics/crafting.md
-      - Inventory: mechanics/inventory.md
-      - AI & EchoFrame System: mechanics/ai-androids.md
+      - Farming: game-mechanics/farming.md
+      - Combat: game-mechanics/combat.md
+      - Crafting & Processing: game-mechanics/crafting.md
+      - Inventory: game-mechanics/inventory.md
+      - AI & EchoFrame System: game-mechanics/ai-echoframe-system.md
   - World & Lore:
-      - The Fall of Aetherion: lore/history.md
-      - The Three Paths: lore/paths.md
-      - Dimensional Index: lore/dimensions.md
-      - The Weight of What We Waste: lore/weight-of-waste.md
+      - The Fall of Aetherion: world-lore/fall-of-aetherion.md
+      - The Three Paths: world-lore/three-paths.md
+      - Dimensional Index: world-lore/dimensional-contributor-guide.md
+      - The Weight of What We Waste: world-lore/weight-of-waste.md
   - Contributing:
-      - Contributor Guide: contributing/index.md
+      - Contributor Guide: contributing/contributor-guide.md
       - Module Template: contributing/module-template.md
   - About:
       - Project Philosophy: about/philosophy.md
