@@ -3,9 +3,10 @@ site_description: A modular evolution of Minecraft — lore-rich, resonance-driv
 site_author: X18Tec
 repo_name: X18Tec/coherent-recursion-docs
 repo_url: https://github.com/X18Tec/coherent-recursion-docs
+
 theme:
   name: material
-  logo: images/logo.png  # optional, placeholder
+  logo: images/logo.png  # optional
   favicon: images/favicon.ico  # optional
   features:
     - navigation.instant
@@ -16,6 +17,7 @@ theme:
     - search.highlight
     - content.code.annotate
     - content.action.edit
+
 markdown_extensions:
   - admonition
   - toc:
@@ -29,6 +31,7 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.snippets
   - pymdownx.tasklist
+
 nav:
   - Home: index.md
   - Getting Started:
@@ -38,19 +41,23 @@ nav:
   - Modules:
       - Module Index: modules/index.md
       - Memory Nexus: modules/memory-nexus.md
+      - EchoFrame Android AI: modules/echoframe-android.md
   - Core Systems:
       - Resonance Paths: systems/resonance-paths.md
       - Tool Evolution: systems/mnemonic-tools.md
       - Module Loader: systems/module-loader.md
+      - Resonant Waste System: systems/resonant-waste.md
   - Game Mechanics:
       - Farming: mechanics/farming.md
       - Combat: mechanics/combat.md
       - Crafting & Processing: mechanics/crafting.md
       - Inventory: mechanics/inventory.md
+      - AI & EchoFrame System: mechanics/ai-androids.md
   - World & Lore:
       - The Fall of Aetherion: lore/history.md
       - The Three Paths: lore/paths.md
       - Dimensional Index: lore/dimensions.md
+      - The Weight of What We Waste: lore/weight-of-waste.md
   - Contributing:
       - Contributor Guide: contributing/index.md
       - Module Template: contributing/module-template.md
@@ -58,3 +65,4 @@ nav:
       - Project Philosophy: about/philosophy.md
       - Credits: about/credits.md
       - Roadmap: about/roadmap.md
+
