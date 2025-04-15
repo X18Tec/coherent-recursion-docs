@@ -6,7 +6,7 @@ Whether you're a coder, designer, writer, artist, or just an enthusiastic player
 
 ---
 
-## 💡 Project Philosophy (TL;DR)
+## Project Philosophy (TL;DR)
 
 Coherent Recursion is:
 - A framework, not just a modpack
@@ -18,18 +18,18 @@ We prioritize **clarity, cohesion, and player experience** in every contribution
 
 ---
 
-## 🔧 How to Get Started
+## How to Get Started
 
 ### 1. Fork the Repo
 Create your own fork of `X18Tec/Coherent-Recursion` and clone it locally.
 
 ### 2. Choose Your Focus
 You can contribute to:
-- 🧩 **New Modules** (tools, biomes, mobs, systems)
-- ⚙️ **CR Core** (framework logic, APIs, registries)
-- 📘 **Documentation** (lore, wiki content, Patchouli books)
-- 🧪 **Testing & Bug Reports**
-- 🎨 **Assets** (models, textures, icons, sound design)
+- **New Modules** (tools, biomes, mobs, systems)
+- **CR Core** (framework logic, APIs, registries)
+- **Documentation** (lore, wiki content, Patchouli books)
+- **Testing & Bug Reports**
+- **Assets** (models, textures, icons, sound design)
 
 See [Module Progression Map](./cr_module_progression_map.md) for ideas.
 
@@ -43,7 +43,7 @@ These define how and why we design the way we do.
 
 ---
 
-## 📦 Submitting a Module
+## Submitting a Module
 
 Each module should:
 - Be self-contained (its own namespace + data folders)
@@ -75,7 +75,7 @@ Use `/modules/MODULE_NAME/` for code + assets.
 
 ---
 
-## ✏️ Writing Docs & Lore
+## Writing Docs & Lore
 
 We love well-written, immersive entries! To contribute lore:
 - Submit `.md` or `.txt` files to `/docs/lore/`
@@ -85,7 +85,7 @@ We love well-written, immersive entries! To contribute lore:
 
 ---
 
-## 📜 Coding Standards
+## Coding Standards
 - Java 17+ (NeoForge 1.21.1)
 - Use CR Core systems for gating/registration where applicable
 - Prefer data-driven over hardcoded features
@@ -94,7 +94,7 @@ We love well-written, immersive entries! To contribute lore:
 
 ---
 
-## 🧪 Testing Guidelines
+## Testing Guidelines
 - Test both client and server environments
 - If your module adds a dimension or progression lock, test with default player progression
 - Report any dependencies that behave unexpectedly under CR Core
@@ -102,7 +102,7 @@ We love well-written, immersive entries! To contribute lore:
 
 ---
 
-## 🙌 Community Values
+## Community Values
 - Be respectful and curious
 - Ask before starting large changes
 - Document decisions and designs in PR descriptions
@@ -111,14 +111,14 @@ We love well-written, immersive entries! To contribute lore:
 
 ---
 
-## 💬 Where to Ask Questions
+## Where to Ask Questions
 - **Discord** (invite coming soon!)
 - GitHub Discussions
 - Comment in issues or PRs
 
 ---
 
-## 🏗️ Contributor Recognition
+## Contributor Recognition
 All contributors will be credited:
 - In-game via `/credits` and main menu
 - On the GitHub page + wiki
@@ -128,7 +128,7 @@ Significant contributors may be invited to join the **CR Dev Circle**—our core
 
 ---
 
-## ✨ Thank You
+## Thank You
 This project is built on memory—and you’re now part of it.
 
 > *“The world remembers those who shape it.”*
