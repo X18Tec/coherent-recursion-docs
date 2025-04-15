@@ -33,37 +33,46 @@ markdown_extensions:
   - pymdownx.tasklist
 
 nav:
-  - Home: module-contributor-guide.md
+  - Home: module-index.md
   - Getting Started:
       - Installation Guide: getting-started/installation-guide.md
       - First Steps: getting-started/first-steps.md
       - FAQ: getting-started/faq.md
   - Modules:
-      - Module Index: modules/module-contributor-guide.md
+      - Module Index: modules/module-index.md
       - Memory Nexus: modules/memory-nexus.md
       - EchoFrame Android AI: modules/echoframe-android-ai.md
+      - Astral Nexus: modules/astral-nexus.md
   - Core Systems:
-      - Resonance Paths: core-systems/resonance-three-paths.md
-      - Tool Evolution: core-systems/mnemonic-tools.md
+      - Resonance Paths: core-systems/resonance-paths.md
+      - Mnemonic Tool Evolution: core-systems/mnemonic-mnemonic-tool-evolution.md
       - Module Loader: core-systems/module-loader.md
       - Resonant Waste System: core-systems/resonant-waste-system.md
-      - Mnemonic Tools: core-systems/mnemonic-tools.md
-  - Game Mechanics:
-      - Farming: game-mechanics/farming.md
-      - Combat: game-mechanics/combat.md
+   - Game Mechanics:
+      - Farming Overhaul: game-mechanics/farming.md
+      - Combat & Hostile Mobs: game-mechanics/combat.md
       - Crafting & Processing: game-mechanics/crafting.md
-      - Inventory: game-mechanics/inventory.md
-      - AI & EchoFrame System: game-mechanics/ai-echoframe-system.md
+      - Inventory Systems: game-mechanics/inventory.md
+      - EchoFrame AI Integration: game-mechanics/ai-androids.md
+      - Temporal Drift Mechanic: game-mechanics/temporal-drift.md
   - World & Lore:
+      - Aetherion/Threnos History: world-lore/history.md
       - The Fall of Aetherion: world-lore/fall-of-aetherion.md
-      - The Three Paths: world-lore/three-paths.md
-      - Dimensional Index: world-lore/dimensional-contributor-guide.md
-      - The Weight of What We Waste: world-lore/weight-of-waste.md
+      - Resonance Paths Mythos: world-lore/paths.md
+      - Dimensional Index: world-lore/dimensions.md
+      - Resonant Waste Narritive: world-lore/weight-of-waste.md
+      - Threnos World Overview: world-lore/threnos-world-overview.md
+      - Threnos Logbook Outline: world-lore/threnos-logbook-outline.md
+      - Biome & Structure Map: world-lore/biome-structure-map-overview.md
+      - EchoFrame Boot Log 00: world-lore/echoframe-boot-log-00.md
+      - Cryopod Audio Transcript: world-lore/cryopod-audio-transcript.md
   - Contributing:
-      - Contributor Guide: contributing/contributor-guide.md
+      - Contributor Guide: contributing/index.md
       - Module Template: contributing/module-template.md
   - About:
-      - Project Philosophy: about/philosophy.md
+      - Coherent Recursion Project Overview: about/coherent-recursion-overview.md
+      - Project Philosophy: about/project-philosophy.md
+      - Player Journey: about/player-journey-overview.md
       - Credits: about/credits.md
       - Roadmap: about/roadmap.md
 
