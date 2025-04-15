@@ -48,7 +48,7 @@ nav:
       - Mnemonic Tool Evolution: core-systems/mnemonic-mnemonic-tool-evolution.md
       - Module Loader: core-systems/module-loader.md
       - Resonant Waste System: core-systems/resonant-waste-system.md
-   - Game Mechanics:
+  - Game Mechanics:
       - Farming Overhaul: game-mechanics/farming.md
       - Combat & Hostile Mobs: game-mechanics/combat.md
       - Crafting & Processing: game-mechanics/crafting.md
