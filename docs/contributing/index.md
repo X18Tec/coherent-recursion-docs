@@ -1,6 +1,6 @@
 # Contributing to Coherent Recursion
 
-Welcome, world-shaper! 🎉
+Welcome, world-shaper!
 
 Whether you're a coder, designer, writer, artist, or just an enthusiastic player, we’re excited to have you contribute to **Coherent Recursion**—a modular evolution of Minecraft grounded in narrative design, resonance-driven systems, and player immersion.
 
@@ -31,13 +31,13 @@ You can contribute to:
 - **Testing & Bug Reports**
 - **Assets** (models, textures, icons, sound design)
 
-See [Module Progression Map](./cr_module_progression_map.md) for ideas.
+See [Module Progression Map](/docs/about/cr-module-progression-map.md) for ideas.
 
 ### 3. Review the Design Docs
 Start with these essentials:
-- [Core Philosophy](./cr_core_philosophy.md)
-- [Friction → System Mapping](./cr_friction_to_system_map.md)
-- [Project Overview](./coherent_recursion_overview.md)
+- [Core Philosophy](/docs/about/project-philosophy.md)
+- [Friction → System Mapping](/docs/about/cr-friction-to-system-map.md)
+- [Project Overview](/docs/about/coherent-recursion-overview.md)
 
 These define how and why we design the way we do.
 
@@ -80,7 +80,7 @@ Use `/modules/MODULE_NAME/` for code + assets.
 We love well-written, immersive entries! To contribute lore:
 - Submit `.md` or `.txt` files to `/docs/lore/`
 - Keep narrative tone consistent with existing entries
-- Use memory/resonance metaphors (see [Core Philosophy](./cr_core_philosophy.md))
+- Use memory/resonance metaphors (see [Core Philosophy](/docs/about/project-philosophy.md))
 - Short fragments are just as valuable as full stories
 
 ---

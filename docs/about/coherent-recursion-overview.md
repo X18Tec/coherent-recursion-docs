@@ -20,17 +20,17 @@ A **community-driven evolution of Minecraft**, centered on NeoForge 1.21.1. Cohe
 
 ## Design Pillars
 
-### 🧠 Player Psychology
+### Player Psychology
 - Inventory, death, and travel systems designed for immersion—not punishment
 - Clear, discoverable player progression that respects curiosity and agency
 - Tools, resources, and world systems evolve *with* the player, not in spite of them
 
-### 🌐 Modular Infrastructure
+### Modular Infrastructure
 - Modules are the heart of gameplay delivery, each tied to a narrative, biome, or technology
 - Each module can be soft (additive) or hard (overwrites vanilla systems)
 - Modules are categorized by alignment with one or more of the three paths: **Natura**, **Arcanum**, **Mechanica**
 
-### 🎨 Aesthetic & Cultural Integration
+### Aesthetic & Cultural Integration
 - Biomes and builds matter. Architecture styles (e.g., Gothic, Elven, Brutalist) influence rituals, NPCs, and mechanics
 - Cultural building materials tied to gameplay bonuses, resonances, and world reactions
 
@@ -38,14 +38,14 @@ A **community-driven evolution of Minecraft**, centered on NeoForge 1.21.1. Cohe
 
 ## Key Systems & Needs Identified
 
-### ⚠️ Friction Points (Vanilla Minecraft)
+### Friction Points (Vanilla Minecraft)
 - Cluttered, shallow inventory systems
 - Arbitrary progression walls (Smithing Templates, locked recipes)
 - One-size-fits-all hostile mobs and item drops
 - Disconnected biomes, flat procedural generation
 - Underused building materials (e.g. copper)
 
-### 💡 Planned Solutions
+### Planned Solutions
 - Unified modular inventory/QoL system (backpacks, lunchboxes, auto-pickup)
 - Mnemonic Tools: player-bound tools with memory and imprinting systems
 - Lore-infused crafting systems with resonance influences
@@ -121,15 +121,15 @@ You are intentionally designing for diverse player styles:
 
 ## Next Steps
 
-### ✅ Option 1: Module API Specification
+### Option 1: Module API Specification
 - JSON + mod API system for module registration and gating
 - Hooks for GUI, recipes, dimensions, and tool integration
 
-### ✅ Option 2: Contributor Kit
+### Option 2: Contributor Kit
 - GitHub repo scaffold with CR Core pre-installed
 - CONTRIBUTING.md, coding standards, and module creation starter pack
 
-### ✅ Option 3: First Sample Module
+### Option 3: First Sample Module
 - **"Memory Nexus"**: Tools, ores, and dimension intro
 - Unlockable tool abilities, resonance crafting, Patchouli/quest tie-ins
 
